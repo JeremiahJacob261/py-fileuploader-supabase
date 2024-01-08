@@ -12,7 +12,6 @@
 
 pip install -r requirements.txt
 
-
  ```
 
 <h3>3. ENJOY </h3>
@@ -25,7 +24,7 @@ python main.py
 ```
 
 <h2>MUST READ</h2>
-<i>REPLACE THE API KEY and DATABASE URL to yours ,https://supabase.com/</i>
-<i>This is only for eductional and testing purposes only, using the code and its API KEY for production purposes will result in the shutdown of the storage server</i>
-<i>Data uploaded can be lost, and I am not responsible for such</i>
+<i>REPLACE THE API KEY and DATABASE URL to yours ,https://supabase.com/</i></br>
+<i>This is only for eductional and testing purposes only, using the code and its API KEY for production purposes will result in the shutdown of the storage server</i></br>
+<i>Data uploaded can be lost, and I am not responsible for such</i></br>
 <i>Please, Don't froget to give a STAR</i>
